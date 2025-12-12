@@ -670,6 +670,21 @@ To every team member working tirelessly.
 
 ---
 
+**🚀 How to Clone & Run the Project Locally**
+
+# 1. Clone the repository
+git clone https://github.com/Nobin-Krishi/Nobin-Krishi.git
+
+# 2. Go into the project folder
+cd nobinkrishi-main
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+
 *নবীন কৃষি - প্রযুক্তি দিয়ে কৃষিতে বিপ্লব*
 *NobinKrishi - Technology-Driven Agricultural Revolution*
 
