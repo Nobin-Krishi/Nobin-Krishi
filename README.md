@@ -672,16 +672,16 @@ To every team member working tirelessly.
 
 **🚀 How to Clone & Run the Project Locally**
 
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/Nobin-Krishi/Nobin-Krishi.git
 
-# 2. Go into the project folder
+2. Go into the project folder
 cd nobinkrishi-main
 
-# 3. Install dependencies
+3. Install dependencies
 npm install
 
-# 4. Start the development server
+4. Start the development server
 npm run dev
 
 
