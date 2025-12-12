@@ -665,7 +665,7 @@ To every team member working tirelessly.
 ---
 
 **Version:** 1.0.0
-**Last Updated:** December 2024
+**Last Updated:** 12/12/2025
 **Language:** English (বাংলা version available)
 
 ---
